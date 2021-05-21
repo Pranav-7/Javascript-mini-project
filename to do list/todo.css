@@ -1,0 +1,43 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 360px;
+    margin-left: 30%;
+}
+
+#inputfield{
+   width:300px;
+   height:46px;
+   border: 1px solid black;
+   outline: none;
+   font-size:25px;
+   vertical-align:middle;
+}
+
+#addTODO{
+    height:50px;
+    width: 50px;
+    border: 1px solid black;
+    font-size:25px;
+    vertical-align:middle;
+}
+
+.to-dos{
+    margin-top:25px;
+
+}
+
+.paragraph-stylings{
+    margin: 0;
+    cursor: pointer;
+    font-size:20px
+}
+
+h1{
+    margin-top:10%;
+    margin-left: 35%;
+}
